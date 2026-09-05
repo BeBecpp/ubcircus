@@ -1,0 +1,2162 @@
+{
+ "version": 1,
+ "generated_at": "2026-09-05T09:00:00+08:00",
+ "sample": true,
+ "media": [
+  {
+   "id": "05000000-0000-4000-8000-000000000001",
+   "kind": "image",
+   "url": "/placeholders/poster-01.svg",
+   "object_key": null,
+   "file_name": "poster-01.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 600,
+   "height": 800,
+   "alt": {
+    "mn": "«Тойрог» тоглолтын постер — тайзны судалбар",
+    "en": "Poster study for The Ring — concentric stage geometry",
+    "tr": "«Çember» afiş etüdü — sahne geometrisi"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "posters",
+   "tags": [
+    "posters",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000002",
+   "kind": "image",
+   "url": "/placeholders/poster-02.svg",
+   "object_key": null,
+   "file_name": "poster-02.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 600,
+   "height": 800,
+   "alt": {
+    "mn": "«Таталцал» тоглолтын постер — агаарын шугамууд",
+    "en": "Poster study for Gravity — aerial line field",
+    "tr": "«Yerçekimi» afiş etüdü — hava çizgileri"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "posters",
+   "tags": [
+    "posters",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000003",
+   "kind": "image",
+   "url": "/placeholders/poster-03.svg",
+   "object_key": null,
+   "file_name": "poster-03.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 600,
+   "height": 800,
+   "alt": {
+    "mn": "«Улаан утас» тоглолтын постер",
+    "en": "Poster study for Red Thread — rotating ellipses",
+    "tr": "«Kırmızı İplik» afiş etüdü"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "posters",
+   "tags": [
+    "posters",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000004",
+   "kind": "image",
+   "url": "/placeholders/poster-04.svg",
+   "object_key": null,
+   "file_name": "poster-04.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 600,
+   "height": 800,
+   "alt": {
+    "mn": "«Завсар» тоглолтын постер",
+    "en": "Poster study for Interlude — motion paths",
+    "tr": "«Ara» afiş etüdü"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "posters",
+   "tags": [
+    "posters",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000005",
+   "kind": "image",
+   "url": "/placeholders/poster-05.svg",
+   "object_key": null,
+   "file_name": "poster-05.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 600,
+   "height": 800,
+   "alt": {
+    "mn": "«Тэнцвэр» тоглолтын постер",
+    "en": "Poster study for Balance — wire tension",
+    "tr": "«Denge» afiş etüdü"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "posters",
+   "tags": [
+    "posters",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000006",
+   "kind": "image",
+   "url": "/placeholders/poster-06.svg",
+   "object_key": null,
+   "file_name": "poster-06.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 600,
+   "height": 800,
+   "alt": {
+    "mn": "«Шөнийн судалбар» постер",
+    "en": "Poster study for Night Study — dust field",
+    "tr": "«Gece Etüdü» afiş etüdü"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "posters",
+   "tags": [
+    "posters",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000007",
+   "kind": "image",
+   "url": "/placeholders/stage-01.svg",
+   "object_key": null,
+   "file_name": "stage-01.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 1600,
+   "height": 900,
+   "alt": {
+    "mn": "Тойргийн шал — тайзны судалбар",
+    "en": "Ring floor — stage study",
+    "tr": "Çember zemini — sahne etüdü"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "performances",
+   "tags": [
+    "performances",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000008",
+   "kind": "image",
+   "url": "/placeholders/stage-02.svg",
+   "object_key": null,
+   "file_name": "stage-02.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 1600,
+   "height": 900,
+   "alt": {
+    "mn": "Олсны хурцадмал байдал — судалбар",
+    "en": "Rope tension — stage study",
+    "tr": "İp gerilimi — sahne etüdü"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "behind-the-scenes",
+   "tags": [
+    "behind-the-scenes",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000009",
+   "kind": "image",
+   "url": "/placeholders/stage-03.svg",
+   "object_key": null,
+   "file_name": "stage-03.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 1600,
+   "height": 900,
+   "alt": {
+    "mn": "Хөдөлгөөний зам — судалбар",
+    "en": "Motion path — stage study",
+    "tr": "Hareket yolu — sahne etüdü"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "performances",
+   "tags": [
+    "performances",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000010",
+   "kind": "image",
+   "url": "/placeholders/stage-04.svg",
+   "object_key": null,
+   "file_name": "stage-04.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 1600,
+   "height": 900,
+   "alt": {
+    "mn": "Прожекторын гэрэл — судалбар",
+    "en": "Spotlight — stage study",
+    "tr": "Spot ışığı — sahne etüdü"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "photography",
+   "tags": [
+    "photography",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000011",
+   "kind": "image",
+   "url": "/placeholders/archive-02.svg",
+   "object_key": null,
+   "file_name": "archive-02.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 1600,
+   "height": 900,
+   "alt": {
+    "mn": "Архивын хэлтэрхий — судалбар",
+    "en": "Archive fragment — study",
+    "tr": "Arşiv parçası — etüt"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "behind-the-scenes",
+   "tags": [
+    "behind-the-scenes",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  },
+  {
+   "id": "05000000-0000-4000-8000-000000000012",
+   "kind": "image",
+   "url": "/placeholders/video-poster.svg",
+   "object_key": null,
+   "file_name": "video-poster.svg",
+   "mime_type": "image/svg+xml",
+   "size": 4000,
+   "width": 1600,
+   "height": 900,
+   "alt": {
+    "mn": "Тоглолтын киноны постер",
+    "en": "Performance film poster",
+    "tr": "Gösteri filmi afişi"
+   },
+   "caption": {
+    "mn": "Загвар зураг · Бодит гэрэл зураг биш",
+    "en": "Sample artwork · Not a photograph",
+    "tr": "Örnek görsel · Fotoğraf değildir"
+   },
+   "credit": "UB Circus studio · sample",
+   "photographer": "",
+   "focal_x": 0.5,
+   "focal_y": 0.45,
+   "category": "videos",
+   "tags": [
+    "videos",
+    "sample"
+   ],
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  }
+ ],
+ "event_categories": [
+  {
+   "id": "02000000-0000-4000-8000-000000000001",
+   "slug": "contemporary",
+   "kind": "event",
+   "labels": {
+    "mn": "Орчин үеийн цирк",
+    "en": "Contemporary circus",
+    "tr": "Çağdaş sirk"
+   },
+   "display_order": 0
+  },
+  {
+   "id": "02000000-0000-4000-8000-000000000002",
+   "slug": "aerial",
+   "kind": "event",
+   "labels": {
+    "mn": "Агаарын урлаг",
+    "en": "Aerial",
+    "tr": "Hava akrobasisi"
+   },
+   "display_order": 1
+  },
+  {
+   "id": "02000000-0000-4000-8000-000000000003",
+   "slug": "family",
+   "kind": "event",
+   "labels": {
+    "mn": "Гэр бүлд зориулсан",
+    "en": "Family",
+    "tr": "Aile"
+   },
+   "display_order": 2
+  },
+  {
+   "id": "02000000-0000-4000-8000-000000000004",
+   "slug": "acrobatics",
+   "kind": "event",
+   "labels": {
+    "mn": "Акробат",
+    "en": "Acrobatics",
+    "tr": "Akrobasi"
+   },
+   "display_order": 3
+  }
+ ],
+ "article_categories": [
+  {
+   "id": "03000000-0000-4000-8000-000000000001",
+   "slug": "studio-notes",
+   "kind": "article",
+   "labels": {
+    "mn": "Тайзны тэмдэглэл",
+    "en": "Studio notes",
+    "tr": "Stüdyo notları"
+   },
+   "display_order": 0
+  },
+  {
+   "id": "03000000-0000-4000-8000-000000000002",
+   "slug": "interviews",
+   "kind": "article",
+   "labels": {
+    "mn": "Ярилцлага",
+    "en": "Interviews",
+    "tr": "Söyleşiler"
+   },
+   "display_order": 1
+  },
+  {
+   "id": "03000000-0000-4000-8000-000000000003",
+   "slug": "archive",
+   "kind": "article",
+   "labels": {
+    "mn": "Архив",
+    "en": "Archive",
+    "tr": "Arşiv"
+   },
+   "display_order": 2
+  }
+ ],
+ "venues": [
+  {
+   "id": "04000000-0000-4000-8000-000000000001",
+   "slug": "main-arena",
+   "name": {
+    "mn": "Үндсэн танхим · загвар",
+    "en": "Main arena · sample",
+    "tr": "Ana salon · örnek"
+   },
+   "address": {
+    "mn": "Хаяг баталгаажаагүй. Редакц баталгаажуулсны дараа нийтэлнэ.",
+    "en": "Address not yet verified. The editorial team will publish it once confirmed.",
+    "tr": "Adres henüz doğrulanmadı. Editörler onayladıktan sonra yayınlanacaktır."
+   },
+   "directions": {
+    "mn": "Нийтийн тээвэр, автомашины зогсоолын мэдээллийг баталгаажуулж байна.",
+    "en": "Public transport and parking directions are being confirmed.",
+    "tr": "Toplu taşıma ve otopark bilgileri doğrulanıyor."
+   },
+   "accessibility": {
+    "mn": "Хүртээмжийн мэдээлэл (тэргэнцэр, сонсголын дэмжлэг, туслах) удахгүй нийтлэгдэнэ.",
+    "en": "Accessibility information (step-free access, hearing support, companions) will be published soon.",
+    "tr": "Erişilebilirlik bilgileri yakında yayınlanacaktır."
+   },
+   "hours": {
+    "mn": "Кассын цагийг баталгаажуулж байна.",
+    "en": "Box office hours are being confirmed.",
+    "tr": "Gişe saatleri doğrulanıyor."
+   },
+   "notes": {
+    "mn": "Тоглолт эхлэхээс 45 минутын өмнө ирэхийг зөвлөж байна.",
+    "en": "We recommend arriving 45 minutes before the performance begins.",
+    "tr": "Gösteriden 45 dakika önce gelmenizi öneririz."
+   },
+   "map_url": null,
+   "latitude": null,
+   "longitude": null,
+   "phone": "",
+   "email": "",
+   "verified": false,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00"
+  }
+ ],
+ "events": [
+  {
+   "id": "01000000-0000-4000-8000-000000000001",
+   "slug": "the-ring",
+   "status": "published",
+   "category_id": "02000000-0000-4000-8000-000000000001",
+   "venue_id": "04000000-0000-4000-8000-000000000001",
+   "duration_minutes": 75,
+   "poster_id": "05000000-0000-4000-8000-000000000001",
+   "hero_id": "05000000-0000-4000-8000-000000000007",
+   "video_id": "08000000-0000-4000-8000-000000000001",
+   "gallery_ids": [
+    "05000000-0000-4000-8000-000000000007",
+    "05000000-0000-4000-8000-000000000009",
+    "05000000-0000-4000-8000-000000000001"
+   ],
+   "sample": true,
+   "published_at": "2026-08-15T10:00:00+08:00",
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "credits": {
+    "mn": "<p><em>Уран бүтээлчдийн нэрс баталгаажаагүй.</em> Найруулагч, хөгжим, гэрэл, хувцасны дизайн — редакц нэмнэ.</p>",
+    "en": "<p><em>Credits not yet confirmed.</em> Direction, music, lighting and costume design will be added by the editorial team.</p>",
+    "tr": "<p><em>Künye henüz doğrulanmadı.</em> Yönetim, müzik, ışık ve kostüm tasarımı editörler tarafından eklenecektir.</p>"
+   },
+   "translations": {
+    "mn": {
+     "title": "Тойрог",
+     "subtitle": "Тойргийн геометр дээрх хөдөлгөөний судалбар",
+     "excerpt": "Тайзны тойрог өөрөө гол дүр болно. Дугуй орон зайд хүний бие, олс, гэрэл хэрхэн харилцахыг судална.",
+     "description": "<p>Энэ бол шинэ хөтөлбөрийн боломжуудыг харуулах <strong>загвар тоглолт</strong> юм. «Тойрог» нь бодит тоглолтын зар биш.</p><p>Бодит тоглолтын мэдээлэл, уран бүтээлчдийн нэрс, үргэлжлэх хугацаа болон тасалбарын холбоосыг редакц баталгаажуулсны дараа нийтэлнэ.</p><p>Тоглолт бүр олон удаагийн үзүүлбэртэй байж болно. Үзүүлбэр бүр тусдаа огноо, цаг, төлөвтэй.</p>",
+     "audience": "6+ нас · Загвар",
+     "seo_title": "Тойрог · UB CIRCUS",
+     "seo_description": "Тайзны тойрог өөрөө гол дүр болно. Дугуй орон зайд хүний бие, олс, гэрэл хэрхэн харилцахыг судална."
+    },
+    "en": {
+     "title": "The Ring",
+     "subtitle": "A study of movement on the geometry of the ring",
+     "excerpt": "The ring itself becomes the protagonist: bodies, rope and light negotiate a circular space.",
+     "description": "<p>This is a clearly labelled <strong>sample production</strong> demonstrating the new programme. “The Ring” is not a real performance announcement.</p><p>Confirmed production information, artist credits, running time and ticket links will be published by the editorial team once verified.</p><p>A production can have many sessions. Every session carries its own date, time and status.</p>",
+     "audience": "Ages 6+ · Sample",
+     "seo_title": "The Ring · UB CIRCUS",
+     "seo_description": "The ring itself becomes the protagonist: bodies, rope and light negotiate a circular space."
+    },
+    "tr": {
+     "title": "Çember",
+     "subtitle": "Çember geometrisi üzerine bir hareket etüdü",
+     "excerpt": "Çemberin kendisi başrole geçer: bedenler, ip ve ışık dairesel bir alanda buluşur.",
+     "description": "<p>Bu, yeni programı göstermek için hazırlanmış <strong>örnek bir yapımdır</strong>. “Çember” gerçek bir gösteri duyurusu değildir.</p><p>Doğrulanmış yapım bilgileri, sanatçı künyesi, süre ve bilet bağlantıları editörler tarafından yayınlanacaktır.</p><p>Bir yapımın birden fazla seansı olabilir. Her seansın kendi tarihi, saati ve durumu vardır.</p>",
+     "audience": "6+ yaş · Örnek",
+     "seo_title": "Çember · UB CIRCUS",
+     "seo_description": "Çemberin kendisi başrole geçer: bedenler, ip ve ışık dairesel bir alanda buluşur."
+    }
+   },
+   "sessions": [
+    {
+     "id": "06000000-0000-4000-8000-000000000001",
+     "starts_at": "2026-09-09T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000001",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000002",
+     "starts_at": "2026-09-12T15:00:00+08:00",
+     "ends_at": null,
+     "status": "sold_out",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000002",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000003",
+     "starts_at": "2026-09-12T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000003",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000004",
+     "starts_at": "2026-09-13T15:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000004",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000005",
+     "starts_at": "2026-09-13T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000005",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    }
+   ]
+  },
+  {
+   "id": "01000000-0000-4000-8000-000000000002",
+   "slug": "gravity",
+   "status": "published",
+   "category_id": "02000000-0000-4000-8000-000000000002",
+   "venue_id": "04000000-0000-4000-8000-000000000001",
+   "duration_minutes": 60,
+   "poster_id": "05000000-0000-4000-8000-000000000002",
+   "hero_id": "05000000-0000-4000-8000-000000000008",
+   "video_id": "08000000-0000-4000-8000-000000000002",
+   "gallery_ids": [
+    "05000000-0000-4000-8000-000000000008",
+    "05000000-0000-4000-8000-000000000002",
+    "05000000-0000-4000-8000-000000000010"
+   ],
+   "sample": true,
+   "published_at": "2026-08-15T10:00:00+08:00",
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "credits": {
+    "mn": "<p><em>Уран бүтээлчдийн нэрс баталгаажаагүй.</em> Найруулагч, хөгжим, гэрэл, хувцасны дизайн — редакц нэмнэ.</p>",
+    "en": "<p><em>Credits not yet confirmed.</em> Direction, music, lighting and costume design will be added by the editorial team.</p>",
+    "tr": "<p><em>Künye henüz doğrulanmadı.</em> Yönetim, müzik, ışık ve kostüm tasarımı editörler tarafından eklenecektir.</p>"
+   },
+   "translations": {
+    "mn": {
+     "title": "Таталцал",
+     "subtitle": "Агаарын урлагийн судалбар",
+     "excerpt": "Дээшээ. Доошоо. Хооронд нь — амьсгал. Агаарын шугамууд дээрх хүндийн хүчний тухай.",
+     "description": "<p>Энэ бол шинэ хөтөлбөрийн боломжуудыг харуулах <strong>загвар тоглолт</strong> юм. «Таталцал» нь бодит тоглолтын зар биш.</p><p>Бодит тоглолтын мэдээлэл, уран бүтээлчдийн нэрс, үргэлжлэх хугацаа болон тасалбарын холбоосыг редакц баталгаажуулсны дараа нийтэлнэ.</p><p>Тоглолт бүр олон удаагийн үзүүлбэртэй байж болно. Үзүүлбэр бүр тусдаа огноо, цаг, төлөвтэй.</p>",
+     "audience": "6+ нас · Загвар",
+     "seo_title": "Таталцал · UB CIRCUS",
+     "seo_description": "Дээшээ. Доошоо. Хооронд нь — амьсгал. Агаарын шугамууд дээрх хүндийн хүчний тухай."
+    },
+    "en": {
+     "title": "Gravity",
+     "subtitle": "An aerial study",
+     "excerpt": "Up. Down. Between them, a breath. A production about weight on aerial lines.",
+     "description": "<p>This is a clearly labelled <strong>sample production</strong> demonstrating the new programme. “Gravity” is not a real performance announcement.</p><p>Confirmed production information, artist credits, running time and ticket links will be published by the editorial team once verified.</p><p>A production can have many sessions. Every session carries its own date, time and status.</p>",
+     "audience": "Ages 6+ · Sample",
+     "seo_title": "Gravity · UB CIRCUS",
+     "seo_description": "Up. Down. Between them, a breath. A production about weight on aerial lines."
+    },
+    "tr": {
+     "title": "Yerçekimi",
+     "subtitle": "Bir hava etüdü",
+     "excerpt": "Yukarı. Aşağı. Arada bir nefes. Hava çizgileri üzerinde ağırlığa dair bir yapım.",
+     "description": "<p>Bu, yeni programı göstermek için hazırlanmış <strong>örnek bir yapımdır</strong>. “Yerçekimi” gerçek bir gösteri duyurusu değildir.</p><p>Doğrulanmış yapım bilgileri, sanatçı künyesi, süre ve bilet bağlantıları editörler tarafından yayınlanacaktır.</p><p>Bir yapımın birden fazla seansı olabilir. Her seansın kendi tarihi, saati ve durumu vardır.</p>",
+     "audience": "6+ yaş · Örnek",
+     "seo_title": "Yerçekimi · UB CIRCUS",
+     "seo_description": "Yukarı. Aşağı. Arada bir nefes. Hava çizgileri üzerinde ağırlığa dair bir yapım."
+    }
+   },
+   "sessions": [
+    {
+     "id": "06000000-0000-4000-8000-000000000006",
+     "starts_at": "2026-09-18T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000006",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000007",
+     "starts_at": "2026-09-19T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000007",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000008",
+     "starts_at": "2026-09-20T15:00:00+08:00",
+     "ends_at": null,
+     "status": "cancelled",
+     "ticket": null
+    }
+   ]
+  },
+  {
+   "id": "01000000-0000-4000-8000-000000000003",
+   "slug": "red-thread",
+   "status": "published",
+   "category_id": "02000000-0000-4000-8000-000000000003",
+   "venue_id": "04000000-0000-4000-8000-000000000001",
+   "duration_minutes": 80,
+   "poster_id": "05000000-0000-4000-8000-000000000003",
+   "hero_id": "05000000-0000-4000-8000-000000000010",
+   "video_id": null,
+   "gallery_ids": [
+    "05000000-0000-4000-8000-000000000003",
+    "05000000-0000-4000-8000-000000000009",
+    "05000000-0000-4000-8000-000000000011"
+   ],
+   "sample": true,
+   "published_at": "2026-08-15T10:00:00+08:00",
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "credits": {
+    "mn": "<p><em>Уран бүтээлчдийн нэрс баталгаажаагүй.</em> Найруулагч, хөгжим, гэрэл, хувцасны дизайн — редакц нэмнэ.</p>",
+    "en": "<p><em>Credits not yet confirmed.</em> Direction, music, lighting and costume design will be added by the editorial team.</p>",
+    "tr": "<p><em>Künye henüz doğrulanmadı.</em> Yönetim, müzik, ışık ve kostüm tasarımı editörler tarafından eklenecektir.</p>"
+   },
+   "translations": {
+    "mn": {
+     "title": "Улаан утас",
+     "subtitle": "Гэр бүлд зориулсан тоглолт",
+     "excerpt": "Нэг улаан утас тайзыг тойрон, дүрүүдийг холбоно. Бүх насныханд.",
+     "description": "<p>Энэ бол шинэ хөтөлбөрийн боломжуудыг харуулах <strong>загвар тоглолт</strong> юм. «Улаан утас» нь бодит тоглолтын зар биш.</p><p>Бодит тоглолтын мэдээлэл, уран бүтээлчдийн нэрс, үргэлжлэх хугацаа болон тасалбарын холбоосыг редакц баталгаажуулсны дараа нийтэлнэ.</p><p>Тоглолт бүр олон удаагийн үзүүлбэртэй байж болно. Үзүүлбэр бүр тусдаа огноо, цаг, төлөвтэй.</p>",
+     "audience": "6+ нас · Загвар",
+     "seo_title": "Улаан утас · UB CIRCUS",
+     "seo_description": "Нэг улаан утас тайзыг тойрон, дүрүүдийг холбоно. Бүх насныханд."
+    },
+    "en": {
+     "title": "Red Thread",
+     "subtitle": "A performance for families",
+     "excerpt": "A single red thread crosses the ring and ties the characters together. For all ages.",
+     "description": "<p>This is a clearly labelled <strong>sample production</strong> demonstrating the new programme. “Red Thread” is not a real performance announcement.</p><p>Confirmed production information, artist credits, running time and ticket links will be published by the editorial team once verified.</p><p>A production can have many sessions. Every session carries its own date, time and status.</p>",
+     "audience": "Ages 6+ · Sample",
+     "seo_title": "Red Thread · UB CIRCUS",
+     "seo_description": "A single red thread crosses the ring and ties the characters together. For all ages."
+    },
+    "tr": {
+     "title": "Kırmızı İplik",
+     "subtitle": "Aileler için bir gösteri",
+     "excerpt": "Tek bir kırmızı iplik sahneyi dolaşır ve karakterleri birbirine bağlar. Her yaş için.",
+     "description": "<p>Bu, yeni programı göstermek için hazırlanmış <strong>örnek bir yapımdır</strong>. “Kırmızı İplik” gerçek bir gösteri duyurusu değildir.</p><p>Doğrulanmış yapım bilgileri, sanatçı künyesi, süre ve bilet bağlantıları editörler tarafından yayınlanacaktır.</p><p>Bir yapımın birden fazla seansı olabilir. Her seansın kendi tarihi, saati ve durumu vardır.</p>",
+     "audience": "6+ yaş · Örnek",
+     "seo_title": "Kırmızı İplik · UB CIRCUS",
+     "seo_description": "Tek bir kırmızı iplik sahneyi dolaşır ve karakterleri birbirine bağlar. Her yaş için."
+    }
+   },
+   "sessions": [
+    {
+     "id": "06000000-0000-4000-8000-000000000009",
+     "starts_at": "2026-09-26T12:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000009",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000010",
+     "starts_at": "2026-09-26T15:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000010",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000011",
+     "starts_at": "2026-09-27T12:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000011",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000012",
+     "starts_at": "2026-09-27T15:00:00+08:00",
+     "ends_at": null,
+     "status": "sold_out",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000012",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    }
+   ]
+  },
+  {
+   "id": "01000000-0000-4000-8000-000000000004",
+   "slug": "interlude",
+   "status": "published",
+   "category_id": "02000000-0000-4000-8000-000000000001",
+   "venue_id": "04000000-0000-4000-8000-000000000001",
+   "duration_minutes": 50,
+   "poster_id": "05000000-0000-4000-8000-000000000004",
+   "hero_id": "05000000-0000-4000-8000-000000000009",
+   "video_id": "08000000-0000-4000-8000-000000000003",
+   "gallery_ids": [
+    "05000000-0000-4000-8000-000000000009",
+    "05000000-0000-4000-8000-000000000004"
+   ],
+   "sample": true,
+   "published_at": "2026-08-15T10:00:00+08:00",
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "credits": {
+    "mn": "<p><em>Уран бүтээлчдийн нэрс баталгаажаагүй.</em> Найруулагч, хөгжим, гэрэл, хувцасны дизайн — редакц нэмнэ.</p>",
+    "en": "<p><em>Credits not yet confirmed.</em> Direction, music, lighting and costume design will be added by the editorial team.</p>",
+    "tr": "<p><em>Künye henüz doğrulanmadı.</em> Yönetim, müzik, ışık ve kostüm tasarımı editörler tarafından eklenecektir.</p>"
+   },
+   "translations": {
+    "mn": {
+     "title": "Завсар",
+     "subtitle": "Хоёр тоглолтын хоорондох чимээгүй байдал",
+     "excerpt": "Завсарлагааны үеэр тайз юу хийдэг вэ? Хөдөлгөөний замуудын тухай богино бүтээл.",
+     "description": "<p>Энэ бол шинэ хөтөлбөрийн боломжуудыг харуулах <strong>загвар тоглолт</strong> юм. «Завсар» нь бодит тоглолтын зар биш.</p><p>Бодит тоглолтын мэдээлэл, уран бүтээлчдийн нэрс, үргэлжлэх хугацаа болон тасалбарын холбоосыг редакц баталгаажуулсны дараа нийтэлнэ.</p><p>Тоглолт бүр олон удаагийн үзүүлбэртэй байж болно. Үзүүлбэр бүр тусдаа огноо, цаг, төлөвтэй.</p>",
+     "audience": "6+ нас · Загвар",
+     "seo_title": "Завсар · UB CIRCUS",
+     "seo_description": "Завсарлагааны үеэр тайз юу хийдэг вэ? Хөдөлгөөний замуудын тухай богино бүтээл."
+    },
+    "en": {
+     "title": "Interlude",
+     "subtitle": "The silence between two acts",
+     "excerpt": "What does a stage do during the interval? A short work about motion paths.",
+     "description": "<p>This is a clearly labelled <strong>sample production</strong> demonstrating the new programme. “Interlude” is not a real performance announcement.</p><p>Confirmed production information, artist credits, running time and ticket links will be published by the editorial team once verified.</p><p>A production can have many sessions. Every session carries its own date, time and status.</p>",
+     "audience": "Ages 6+ · Sample",
+     "seo_title": "Interlude · UB CIRCUS",
+     "seo_description": "What does a stage do during the interval? A short work about motion paths."
+    },
+    "tr": {
+     "title": "Ara",
+     "subtitle": "İki perde arasındaki sessizlik",
+     "excerpt": "Sahne ara sırasında ne yapar? Hareket yolları üzerine kısa bir eser.",
+     "description": "<p>Bu, yeni programı göstermek için hazırlanmış <strong>örnek bir yapımdır</strong>. “Ara” gerçek bir gösteri duyurusu değildir.</p><p>Doğrulanmış yapım bilgileri, sanatçı künyesi, süre ve bilet bağlantıları editörler tarafından yayınlanacaktır.</p><p>Bir yapımın birden fazla seansı olabilir. Her seansın kendi tarihi, saati ve durumu vardır.</p>",
+     "audience": "6+ yaş · Örnek",
+     "seo_title": "Ara · UB CIRCUS",
+     "seo_description": "Sahne ara sırasında ne yapar? Hareket yolları üzerine kısa bir eser."
+    }
+   },
+   "sessions": [
+    {
+     "id": "06000000-0000-4000-8000-000000000013",
+     "starts_at": "2026-10-03T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000013",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000014",
+     "starts_at": "2026-10-04T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000014",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000015",
+     "starts_at": "2026-10-10T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000015",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    }
+   ]
+  },
+  {
+   "id": "01000000-0000-4000-8000-000000000005",
+   "slug": "balance",
+   "status": "published",
+   "category_id": "02000000-0000-4000-8000-000000000004",
+   "venue_id": "04000000-0000-4000-8000-000000000001",
+   "duration_minutes": 70,
+   "poster_id": "05000000-0000-4000-8000-000000000005",
+   "hero_id": "05000000-0000-4000-8000-000000000008",
+   "video_id": null,
+   "gallery_ids": [
+    "05000000-0000-4000-8000-000000000005",
+    "05000000-0000-4000-8000-000000000008",
+    "05000000-0000-4000-8000-000000000007"
+   ],
+   "sample": true,
+   "published_at": "2026-08-15T10:00:00+08:00",
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "credits": {
+    "mn": "<p><em>Уран бүтээлчдийн нэрс баталгаажаагүй.</em> Найруулагч, хөгжим, гэрэл, хувцасны дизайн — редакц нэмнэ.</p>",
+    "en": "<p><em>Credits not yet confirmed.</em> Direction, music, lighting and costume design will be added by the editorial team.</p>",
+    "tr": "<p><em>Künye henüz doğrulanmadı.</em> Yönetim, müzik, ışık ve kostüm tasarımı editörler tarafından eklenecektir.</p>"
+   },
+   "translations": {
+    "mn": {
+     "title": "Тэнцвэр",
+     "subtitle": "Утас, хүндийн төв, итгэл",
+     "excerpt": "Нэг утас. Нэг алхам. Тэнцвэрийн тухай акробат судалбар.",
+     "description": "<p>Энэ бол шинэ хөтөлбөрийн боломжуудыг харуулах <strong>загвар тоглолт</strong> юм. «Тэнцвэр» нь бодит тоглолтын зар биш.</p><p>Бодит тоглолтын мэдээлэл, уран бүтээлчдийн нэрс, үргэлжлэх хугацаа болон тасалбарын холбоосыг редакц баталгаажуулсны дараа нийтэлнэ.</p><p>Тоглолт бүр олон удаагийн үзүүлбэртэй байж болно. Үзүүлбэр бүр тусдаа огноо, цаг, төлөвтэй.</p>",
+     "audience": "6+ нас · Загвар",
+     "seo_title": "Тэнцвэр · UB CIRCUS",
+     "seo_description": "Нэг утас. Нэг алхам. Тэнцвэрийн тухай акробат судалбар."
+    },
+    "en": {
+     "title": "Balance",
+     "subtitle": "Wire, centre of mass, trust",
+     "excerpt": "One wire. One step. An acrobatic study of balance.",
+     "description": "<p>This is a clearly labelled <strong>sample production</strong> demonstrating the new programme. “Balance” is not a real performance announcement.</p><p>Confirmed production information, artist credits, running time and ticket links will be published by the editorial team once verified.</p><p>A production can have many sessions. Every session carries its own date, time and status.</p>",
+     "audience": "Ages 6+ · Sample",
+     "seo_title": "Balance · UB CIRCUS",
+     "seo_description": "One wire. One step. An acrobatic study of balance."
+    },
+    "tr": {
+     "title": "Denge",
+     "subtitle": "Tel, ağırlık merkezi, güven",
+     "excerpt": "Tek tel. Tek adım. Denge üzerine bir akrobasi etüdü.",
+     "description": "<p>Bu, yeni programı göstermek için hazırlanmış <strong>örnek bir yapımdır</strong>. “Denge” gerçek bir gösteri duyurusu değildir.</p><p>Doğrulanmış yapım bilgileri, sanatçı künyesi, süre ve bilet bağlantıları editörler tarafından yayınlanacaktır.</p><p>Bir yapımın birden fazla seansı olabilir. Her seansın kendi tarihi, saati ve durumu vardır.</p>",
+     "audience": "6+ yaş · Örnek",
+     "seo_title": "Denge · UB CIRCUS",
+     "seo_description": "Tek tel. Tek adım. Denge üzerine bir akrobasi etüdü."
+    }
+   },
+   "sessions": [
+    {
+     "id": "06000000-0000-4000-8000-000000000016",
+     "starts_at": "2026-10-17T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000016",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000017",
+     "starts_at": "2026-10-18T15:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000017",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000018",
+     "starts_at": "2026-10-24T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000018",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000019",
+     "starts_at": "2026-11-07T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": {
+      "id": "07000000-0000-4000-8000-000000000019",
+      "label": "Тасалбар",
+      "url": "https://example.com/tickets/sample",
+      "price": null,
+      "currency": "MNT",
+      "note": "Sample session · booking disabled"
+     }
+    }
+   ]
+  },
+  {
+   "id": "01000000-0000-4000-8000-000000000006",
+   "slug": "night-study",
+   "status": "published",
+   "category_id": "02000000-0000-4000-8000-000000000001",
+   "venue_id": "04000000-0000-4000-8000-000000000001",
+   "duration_minutes": 65,
+   "poster_id": "05000000-0000-4000-8000-000000000006",
+   "hero_id": "05000000-0000-4000-8000-000000000010",
+   "video_id": null,
+   "gallery_ids": [
+    "05000000-0000-4000-8000-000000000006",
+    "05000000-0000-4000-8000-000000000010"
+   ],
+   "sample": true,
+   "published_at": "2026-08-15T10:00:00+08:00",
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "credits": {
+    "mn": "<p><em>Уран бүтээлчдийн нэрс баталгаажаагүй.</em> Найруулагч, хөгжим, гэрэл, хувцасны дизайн — редакц нэмнэ.</p>",
+    "en": "<p><em>Credits not yet confirmed.</em> Direction, music, lighting and costume design will be added by the editorial team.</p>",
+    "tr": "<p><em>Künye henüz doğrulanmadı.</em> Yönetim, müzik, ışık ve kostüm tasarımı editörler tarafından eklenecektir.</p>"
+   },
+   "translations": {
+    "mn": {
+     "title": "Шөнийн судалбар",
+     "subtitle": "Улирлын нээлтийн судалбар",
+     "excerpt": "Харанхуй тайзан дээрх тоосонцор, гэрэл, хөдөлгөөн. Улирлыг нээсэн судалбар.",
+     "description": "<p>Энэ бол шинэ хөтөлбөрийн боломжуудыг харуулах <strong>загвар тоглолт</strong> юм. «Шөнийн судалбар» нь бодит тоглолтын зар биш.</p><p>Бодит тоглолтын мэдээлэл, уран бүтээлчдийн нэрс, үргэлжлэх хугацаа болон тасалбарын холбоосыг редакц баталгаажуулсны дараа нийтэлнэ.</p><p>Тоглолт бүр олон удаагийн үзүүлбэртэй байж болно. Үзүүлбэр бүр тусдаа огноо, цаг, төлөвтэй.</p>",
+     "audience": "6+ нас · Загвар",
+     "seo_title": "Шөнийн судалбар · UB CIRCUS",
+     "seo_description": "Харанхуй тайзан дээрх тоосонцор, гэрэл, хөдөлгөөн. Улирлыг нээсэн судалбар."
+    },
+    "en": {
+     "title": "Night Study",
+     "subtitle": "A season-opening study",
+     "excerpt": "Dust, light and movement on a dark stage. The study that opened the season.",
+     "description": "<p>This is a clearly labelled <strong>sample production</strong> demonstrating the new programme. “Night Study” is not a real performance announcement.</p><p>Confirmed production information, artist credits, running time and ticket links will be published by the editorial team once verified.</p><p>A production can have many sessions. Every session carries its own date, time and status.</p>",
+     "audience": "Ages 6+ · Sample",
+     "seo_title": "Night Study · UB CIRCUS",
+     "seo_description": "Dust, light and movement on a dark stage. The study that opened the season."
+    },
+    "tr": {
+     "title": "Gece Etüdü",
+     "subtitle": "Sezon açılış etüdü",
+     "excerpt": "Karanlık sahnede toz, ışık ve hareket. Sezonu açan etüt.",
+     "description": "<p>Bu, yeni programı göstermek için hazırlanmış <strong>örnek bir yapımdır</strong>. “Gece Etüdü” gerçek bir gösteri duyurusu değildir.</p><p>Doğrulanmış yapım bilgileri, sanatçı künyesi, süre ve bilet bağlantıları editörler tarafından yayınlanacaktır.</p><p>Bir yapımın birden fazla seansı olabilir. Her seansın kendi tarihi, saati ve durumu vardır.</p>",
+     "audience": "6+ yaş · Örnek",
+     "seo_title": "Gece Etüdü · UB CIRCUS",
+     "seo_description": "Karanlık sahnede toz, ışık ve hareket. Sezonu açan etüt."
+    }
+   },
+   "sessions": [
+    {
+     "id": "06000000-0000-4000-8000-000000000020",
+     "starts_at": "2026-08-21T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": null
+    },
+    {
+     "id": "06000000-0000-4000-8000-000000000021",
+     "starts_at": "2026-08-22T19:00:00+08:00",
+     "ends_at": null,
+     "status": "scheduled",
+     "ticket": null
+    }
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "id": "08000000-0000-4000-8000-000000000001",
+   "youtube_id": null,
+   "poster_id": "05000000-0000-4000-8000-000000000012",
+   "featured": true,
+   "display_order": 0,
+   "status": "published",
+   "sample": true,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Тойрог · тоглолтын кино",
+     "subtitle": "Загвар видео · YouTube холбоос хараахан нэмэгдээгүй",
+     "description": "Редактор баталгаажсан YouTube холбоосыг нэмсний дараа тоглуулагч энд идэвхжинэ."
+    },
+    "en": {
+     "title": "The Ring · performance film",
+     "subtitle": "Sample video · YouTube link not yet added",
+     "description": "The player activates here once an editor adds a verified YouTube link."
+    },
+    "tr": {
+     "title": "Çember · gösteri filmi",
+     "subtitle": "Örnek video · YouTube bağlantısı henüz eklenmedi",
+     "description": "Editör doğrulanmış bir YouTube bağlantısı ekledikten sonra oynatıcı burada etkinleşir."
+    }
+   }
+  },
+  {
+   "id": "08000000-0000-4000-8000-000000000002",
+   "youtube_id": null,
+   "poster_id": "05000000-0000-4000-8000-000000000008",
+   "featured": false,
+   "display_order": 1,
+   "status": "published",
+   "sample": true,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Таталцал · трейлер",
+     "subtitle": "Загвар видео · YouTube холбоос хараахан нэмэгдээгүй",
+     "description": "Редактор баталгаажсан YouTube холбоосыг нэмсний дараа тоглуулагч энд идэвхжинэ."
+    },
+    "en": {
+     "title": "Gravity · trailer",
+     "subtitle": "Sample video · YouTube link not yet added",
+     "description": "The player activates here once an editor adds a verified YouTube link."
+    },
+    "tr": {
+     "title": "Yerçekimi · fragman",
+     "subtitle": "Örnek video · YouTube bağlantısı henüz eklenmedi",
+     "description": "Editör doğrulanmış bir YouTube bağlantısı ekledikten sonra oynatıcı burada etkinleşir."
+    }
+   }
+  },
+  {
+   "id": "08000000-0000-4000-8000-000000000003",
+   "youtube_id": null,
+   "poster_id": "05000000-0000-4000-8000-000000000009",
+   "featured": false,
+   "display_order": 2,
+   "status": "published",
+   "sample": true,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Завсар · тайзны ард",
+     "subtitle": "Загвар видео · YouTube холбоос хараахан нэмэгдээгүй",
+     "description": "Редактор баталгаажсан YouTube холбоосыг нэмсний дараа тоглуулагч энд идэвхжинэ."
+    },
+    "en": {
+     "title": "Interlude · behind the stage",
+     "subtitle": "Sample video · YouTube link not yet added",
+     "description": "The player activates here once an editor adds a verified YouTube link."
+    },
+    "tr": {
+     "title": "Ara · sahne arkası",
+     "subtitle": "Örnek video · YouTube bağlantısı henüz eklenmedi",
+     "description": "Editör doğrulanmış bir YouTube bağlantısı ekledikten sonra oynatıcı burada etkinleşir."
+    }
+   }
+  }
+ ],
+ "galleries": [
+  {
+   "id": "09000000-0000-4000-8000-000000000001",
+   "slug": "season-studies",
+   "status": "published",
+   "category": "performances",
+   "sample": true,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Улирлын судалбарууд",
+     "description": "Загвар цуглуулга. Бодит гэрэл зургийг редакц нэмнэ."
+    },
+    "en": {
+     "title": "Season studies",
+     "description": "Sample collection. Verified photography will be added by the editorial team."
+    },
+    "tr": {
+     "title": "Sezon etütleri",
+     "description": "Örnek koleksiyon. Doğrulanmış fotoğraflar editörler tarafından eklenecektir."
+    }
+   },
+   "items": [
+    {
+     "id": "10000000-0000-4000-8000-000000000001",
+     "media_id": "05000000-0000-4000-8000-000000000007",
+     "display_order": 0,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000002",
+     "media_id": "05000000-0000-4000-8000-000000000009",
+     "display_order": 1,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000003",
+     "media_id": "05000000-0000-4000-8000-000000000001",
+     "display_order": 2,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000004",
+     "media_id": "05000000-0000-4000-8000-000000000002",
+     "display_order": 3,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000005",
+     "media_id": "05000000-0000-4000-8000-000000000008",
+     "display_order": 4,
+     "caption": null
+    }
+   ]
+  },
+  {
+   "id": "09000000-0000-4000-8000-000000000002",
+   "slug": "behind-the-curtain",
+   "status": "published",
+   "category": "behind-the-scenes",
+   "sample": true,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Хөшигний ард",
+     "description": "Загвар цуглуулга. Бодит гэрэл зургийг редакц нэмнэ."
+    },
+    "en": {
+     "title": "Behind the curtain",
+     "description": "Sample collection. Verified photography will be added by the editorial team."
+    },
+    "tr": {
+     "title": "Perde arkası",
+     "description": "Örnek koleksiyon. Doğrulanmış fotoğraflar editörler tarafından eklenecektir."
+    }
+   },
+   "items": [
+    {
+     "id": "10000000-0000-4000-8000-000000000011",
+     "media_id": "05000000-0000-4000-8000-000000000011",
+     "display_order": 0,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000012",
+     "media_id": "05000000-0000-4000-8000-000000000008",
+     "display_order": 1,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000013",
+     "media_id": "05000000-0000-4000-8000-000000000004",
+     "display_order": 2,
+     "caption": null
+    }
+   ]
+  },
+  {
+   "id": "09000000-0000-4000-8000-000000000003",
+   "slug": "posters-2026",
+   "status": "published",
+   "category": "posters",
+   "sample": true,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "2026 оны постерууд",
+     "description": "Загвар цуглуулга. Бодит гэрэл зургийг редакц нэмнэ."
+    },
+    "en": {
+     "title": "Posters 2026",
+     "description": "Sample collection. Verified photography will be added by the editorial team."
+    },
+    "tr": {
+     "title": "2026 afişleri",
+     "description": "Örnek koleksiyon. Doğrulanmış fotoğraflar editörler tarafından eklenecektir."
+    }
+   },
+   "items": [
+    {
+     "id": "10000000-0000-4000-8000-000000000021",
+     "media_id": "05000000-0000-4000-8000-000000000001",
+     "display_order": 0,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000022",
+     "media_id": "05000000-0000-4000-8000-000000000002",
+     "display_order": 1,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000023",
+     "media_id": "05000000-0000-4000-8000-000000000003",
+     "display_order": 2,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000024",
+     "media_id": "05000000-0000-4000-8000-000000000004",
+     "display_order": 3,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000025",
+     "media_id": "05000000-0000-4000-8000-000000000005",
+     "display_order": 4,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000026",
+     "media_id": "05000000-0000-4000-8000-000000000006",
+     "display_order": 5,
+     "caption": null
+    }
+   ]
+  },
+  {
+   "id": "09000000-0000-4000-8000-000000000004",
+   "slug": "stage-light",
+   "status": "published",
+   "category": "photography",
+   "sample": true,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Тайзны гэрэл",
+     "description": "Загвар цуглуулга. Бодит гэрэл зургийг редакц нэмнэ."
+    },
+    "en": {
+     "title": "Stage light",
+     "description": "Sample collection. Verified photography will be added by the editorial team."
+    },
+    "tr": {
+     "title": "Sahne ışığı",
+     "description": "Örnek koleksiyon. Doğrulanmış fotoğraflar editörler tarafından eklenecektir."
+    }
+   },
+   "items": [
+    {
+     "id": "10000000-0000-4000-8000-000000000031",
+     "media_id": "05000000-0000-4000-8000-000000000010",
+     "display_order": 0,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000032",
+     "media_id": "05000000-0000-4000-8000-000000000007",
+     "display_order": 1,
+     "caption": null
+    },
+    {
+     "id": "10000000-0000-4000-8000-000000000033",
+     "media_id": "05000000-0000-4000-8000-000000000006",
+     "display_order": 2,
+     "caption": null
+    }
+   ]
+  }
+ ],
+ "articles": [
+  {
+   "id": "11000000-0000-4000-8000-000000000001",
+   "slug": "the-space-between",
+   "status": "published",
+   "category_id": "03000000-0000-4000-8000-000000000001",
+   "lead_image_id": "05000000-0000-4000-8000-000000000011",
+   "published_at": "2026-09-01T09:00:00+08:00",
+   "sample": true,
+   "reading_minutes": 3,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Хөдөлгөөний хооронд",
+     "subtitle": "Тайзны тэмдэглэл · Загвар нийтлэл",
+     "excerpt": "Тайзны цаадах ертөнцийг нээх редакцын шинэ орон зай.",
+     "body": "<p class=\"lede\">Энэ бол <strong>загвар нийтлэл</strong>. Баталгаажсан эх сурвалж, ярилцлага, дүрс материалыг нийтлэлийн редактор энд оруулна.</p><p>«Хөдөлгөөний хооронд» гэдэг гарчиг нь редакцын хэв маяг, олон хэлний бүтэц, зураг бүхий нийтлэлийн хуудсыг харуулах зорилготой.</p><figure data-media=\"05000000-0000-4000-8000-000000000011\"><figcaption>Загвар зураг · тайзны судалбар</figcaption></figure><blockquote><p>Тайз бол хоосон орон зай биш — хүлээлт юм.</p><cite>Тайзны тэмдэглэл · загвар ишлэл</cite></blockquote><p>Дараагийн догол мөрүүд редакцын бодит агуулгаар солигдоно. Ишлэл, зураг, видео зэрэг элементүүдийг дэмжинэ.</p>",
+     "seo_title": "Хөдөлгөөний хооронд · UB CIRCUS",
+     "seo_description": "Тайзны цаадах ертөнцийг нээх редакцын шинэ орон зай."
+    },
+    "en": {
+     "title": "The space between",
+     "subtitle": "Studio notes · Sample story",
+     "excerpt": "An editorial space for the world behind the curtain.",
+     "body": "<p class=\"lede\">This is a <strong>sample story</strong>. Verified interviews, original reporting and approved archive material will be added here by the editorial team.</p><p>The title “The space between” exists only to demonstrate the editorial voice, the multilingual structure and an image-led article page.</p><figure data-media=\"05000000-0000-4000-8000-000000000011\"><figcaption>Sample artwork · stage study</figcaption></figure><blockquote><p>A stage is not an empty space. It is an expectation.</p><cite>Studio notes · sample quotation</cite></blockquote><p>The following paragraphs will be replaced by real editorial content. Quotes, images and video embeds are supported.</p>",
+     "seo_title": "The space between · UB CIRCUS",
+     "seo_description": "An editorial space for the world behind the curtain."
+    },
+    "tr": {
+     "title": "Hareketin arasında",
+     "subtitle": "Stüdyo notları · Örnek yazı",
+     "excerpt": "Perde arkasındaki dünyaya açılan bir alan.",
+     "body": "<p class=\"lede\">Bu bir <strong>örnek yazıdır</strong>. Doğrulanmış söyleşiler ve arşiv materyalleri editörler tarafından eklenecektir.</p><p>“Hareketin arasında” başlığı yalnızca editoryal sesi, çok dilli yapıyı ve görsel odaklı makale sayfasını göstermek için vardır.</p><figure data-media=\"05000000-0000-4000-8000-000000000011\"><figcaption>Örnek görsel · sahne etüdü</figcaption></figure><blockquote><p>Sahne boş bir alan değil, bir beklentidir.</p><cite>Stüdyo notları · örnek alıntı</cite></blockquote><p>Sonraki paragraflar gerçek editoryal içerikle değiştirilecektir.</p>",
+     "seo_title": "Hareketin arasında · UB CIRCUS",
+     "seo_description": "Perde arkasındaki dünyaya açılan bir alan."
+    }
+   }
+  },
+  {
+   "id": "11000000-0000-4000-8000-000000000002",
+   "slug": "a-study-in-light",
+   "status": "published",
+   "category_id": "03000000-0000-4000-8000-000000000001",
+   "lead_image_id": "05000000-0000-4000-8000-000000000010",
+   "published_at": "2026-08-26T09:00:00+08:00",
+   "sample": true,
+   "reading_minutes": 4,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Гэрлийн судалбар",
+     "subtitle": "Тайзны тэмдэглэл · Загвар нийтлэл",
+     "excerpt": "Прожектор хэрхэн орон зайг зохион байгуулдаг тухай.",
+     "body": "<p class=\"lede\">Энэ бол <strong>загвар нийтлэл</strong>. Баталгаажсан эх сурвалж, ярилцлага, дүрс материалыг нийтлэлийн редактор энд оруулна.</p><p>«Гэрлийн судалбар» гэдэг гарчиг нь редакцын хэв маяг, олон хэлний бүтэц, зураг бүхий нийтлэлийн хуудсыг харуулах зорилготой.</p><figure data-media=\"05000000-0000-4000-8000-000000000010\"><figcaption>Загвар зураг · тайзны судалбар</figcaption></figure><blockquote><p>Тайз бол хоосон орон зай биш — хүлээлт юм.</p><cite>Тайзны тэмдэглэл · загвар ишлэл</cite></blockquote><p>Дараагийн догол мөрүүд редакцын бодит агуулгаар солигдоно. Ишлэл, зураг, видео зэрэг элементүүдийг дэмжинэ.</p>",
+     "seo_title": "Гэрлийн судалбар · UB CIRCUS",
+     "seo_description": "Прожектор хэрхэн орон зайг зохион байгуулдаг тухай."
+    },
+    "en": {
+     "title": "A study in light",
+     "subtitle": "Studio notes · Sample story",
+     "excerpt": "How a single spotlight organises a space.",
+     "body": "<p class=\"lede\">This is a <strong>sample story</strong>. Verified interviews, original reporting and approved archive material will be added here by the editorial team.</p><p>The title “A study in light” exists only to demonstrate the editorial voice, the multilingual structure and an image-led article page.</p><figure data-media=\"05000000-0000-4000-8000-000000000010\"><figcaption>Sample artwork · stage study</figcaption></figure><blockquote><p>A stage is not an empty space. It is an expectation.</p><cite>Studio notes · sample quotation</cite></blockquote><p>The following paragraphs will be replaced by real editorial content. Quotes, images and video embeds are supported.</p>",
+     "seo_title": "A study in light · UB CIRCUS",
+     "seo_description": "How a single spotlight organises a space."
+    },
+    "tr": {
+     "title": "Işık üzerine",
+     "subtitle": "Stüdyo notları · Örnek yazı",
+     "excerpt": "Tek bir spot ışığının mekânı nasıl düzenlediği üzerine.",
+     "body": "<p class=\"lede\">Bu bir <strong>örnek yazıdır</strong>. Doğrulanmış söyleşiler ve arşiv materyalleri editörler tarafından eklenecektir.</p><p>“Işık üzerine” başlığı yalnızca editoryal sesi, çok dilli yapıyı ve görsel odaklı makale sayfasını göstermek için vardır.</p><figure data-media=\"05000000-0000-4000-8000-000000000010\"><figcaption>Örnek görsel · sahne etüdü</figcaption></figure><blockquote><p>Sahne boş bir alan değil, bir beklentidir.</p><cite>Stüdyo notları · örnek alıntı</cite></blockquote><p>Sonraki paragraflar gerçek editoryal içerikle değiştirilecektir.</p>",
+     "seo_title": "Işık üzerine · UB CIRCUS",
+     "seo_description": "Tek bir spot ışığının mekânı nasıl düzenlediği üzerine."
+    }
+   }
+  },
+  {
+   "id": "11000000-0000-4000-8000-000000000003",
+   "slug": "before-the-curtain",
+   "status": "published",
+   "category_id": "03000000-0000-4000-8000-000000000002",
+   "lead_image_id": "05000000-0000-4000-8000-000000000008",
+   "published_at": "2026-08-19T09:00:00+08:00",
+   "sample": true,
+   "reading_minutes": 5,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Хөшиг нээгдэхийн өмнө",
+     "subtitle": "Тайзны тэмдэглэл · Загвар нийтлэл",
+     "excerpt": "Тоглолтын өмнөх 45 минутын тухай ярилцлага (загвар).",
+     "body": "<p class=\"lede\">Энэ бол <strong>загвар нийтлэл</strong>. Баталгаажсан эх сурвалж, ярилцлага, дүрс материалыг нийтлэлийн редактор энд оруулна.</p><p>«Хөшиг нээгдэхийн өмнө» гэдэг гарчиг нь редакцын хэв маяг, олон хэлний бүтэц, зураг бүхий нийтлэлийн хуудсыг харуулах зорилготой.</p><figure data-media=\"05000000-0000-4000-8000-000000000008\"><figcaption>Загвар зураг · тайзны судалбар</figcaption></figure><blockquote><p>Тайз бол хоосон орон зай биш — хүлээлт юм.</p><cite>Тайзны тэмдэглэл · загвар ишлэл</cite></blockquote><p>Дараагийн догол мөрүүд редакцын бодит агуулгаар солигдоно. Ишлэл, зураг, видео зэрэг элементүүдийг дэмжинэ.</p>",
+     "seo_title": "Хөшиг нээгдэхийн өмнө · UB CIRCUS",
+     "seo_description": "Тоглолтын өмнөх 45 минутын тухай ярилцлага (загвар)."
+    },
+    "en": {
+     "title": "Before the curtain",
+     "subtitle": "Studio notes · Sample story",
+     "excerpt": "A conversation about the 45 minutes before a performance (sample).",
+     "body": "<p class=\"lede\">This is a <strong>sample story</strong>. Verified interviews, original reporting and approved archive material will be added here by the editorial team.</p><p>The title “Before the curtain” exists only to demonstrate the editorial voice, the multilingual structure and an image-led article page.</p><figure data-media=\"05000000-0000-4000-8000-000000000008\"><figcaption>Sample artwork · stage study</figcaption></figure><blockquote><p>A stage is not an empty space. It is an expectation.</p><cite>Studio notes · sample quotation</cite></blockquote><p>The following paragraphs will be replaced by real editorial content. Quotes, images and video embeds are supported.</p>",
+     "seo_title": "Before the curtain · UB CIRCUS",
+     "seo_description": "A conversation about the 45 minutes before a performance (sample)."
+    },
+    "tr": {
+     "title": "Perdeden önce",
+     "subtitle": "Stüdyo notları · Örnek yazı",
+     "excerpt": "Gösteriden önceki 45 dakika üzerine bir söyleşi (örnek).",
+     "body": "<p class=\"lede\">Bu bir <strong>örnek yazıdır</strong>. Doğrulanmış söyleşiler ve arşiv materyalleri editörler tarafından eklenecektir.</p><p>“Perdeden önce” başlığı yalnızca editoryal sesi, çok dilli yapıyı ve görsel odaklı makale sayfasını göstermek için vardır.</p><figure data-media=\"05000000-0000-4000-8000-000000000008\"><figcaption>Örnek görsel · sahne etüdü</figcaption></figure><blockquote><p>Sahne boş bir alan değil, bir beklentidir.</p><cite>Stüdyo notları · örnek alıntı</cite></blockquote><p>Sonraki paragraflar gerçek editoryal içerikle değiştirilecektir.</p>",
+     "seo_title": "Perdeden önce · UB CIRCUS",
+     "seo_description": "Gösteriden önceki 45 dakika üzerine bir söyleşi (örnek)."
+    }
+   }
+  },
+  {
+   "id": "11000000-0000-4000-8000-000000000004",
+   "slug": "rope-and-breath",
+   "status": "published",
+   "category_id": "03000000-0000-4000-8000-000000000001",
+   "lead_image_id": "05000000-0000-4000-8000-000000000009",
+   "published_at": "2026-08-12T09:00:00+08:00",
+   "sample": true,
+   "reading_minutes": 6,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Олс ба амьсгал",
+     "subtitle": "Тайзны тэмдэглэл · Загвар нийтлэл",
+     "excerpt": "Агаарын урлагийн бэлтгэлийн тэмдэглэл.",
+     "body": "<p class=\"lede\">Энэ бол <strong>загвар нийтлэл</strong>. Баталгаажсан эх сурвалж, ярилцлага, дүрс материалыг нийтлэлийн редактор энд оруулна.</p><p>«Олс ба амьсгал» гэдэг гарчиг нь редакцын хэв маяг, олон хэлний бүтэц, зураг бүхий нийтлэлийн хуудсыг харуулах зорилготой.</p><figure data-media=\"05000000-0000-4000-8000-000000000009\"><figcaption>Загвар зураг · тайзны судалбар</figcaption></figure><blockquote><p>Тайз бол хоосон орон зай биш — хүлээлт юм.</p><cite>Тайзны тэмдэглэл · загвар ишлэл</cite></blockquote><p>Дараагийн догол мөрүүд редакцын бодит агуулгаар солигдоно. Ишлэл, зураг, видео зэрэг элементүүдийг дэмжинэ.</p>",
+     "seo_title": "Олс ба амьсгал · UB CIRCUS",
+     "seo_description": "Агаарын урлагийн бэлтгэлийн тэмдэглэл."
+    },
+    "en": {
+     "title": "Rope and breath",
+     "subtitle": "Studio notes · Sample story",
+     "excerpt": "Notes from an aerial rehearsal.",
+     "body": "<p class=\"lede\">This is a <strong>sample story</strong>. Verified interviews, original reporting and approved archive material will be added here by the editorial team.</p><p>The title “Rope and breath” exists only to demonstrate the editorial voice, the multilingual structure and an image-led article page.</p><figure data-media=\"05000000-0000-4000-8000-000000000009\"><figcaption>Sample artwork · stage study</figcaption></figure><blockquote><p>A stage is not an empty space. It is an expectation.</p><cite>Studio notes · sample quotation</cite></blockquote><p>The following paragraphs will be replaced by real editorial content. Quotes, images and video embeds are supported.</p>",
+     "seo_title": "Rope and breath · UB CIRCUS",
+     "seo_description": "Notes from an aerial rehearsal."
+    },
+    "tr": {
+     "title": "İp ve nefes",
+     "subtitle": "Stüdyo notları · Örnek yazı",
+     "excerpt": "Bir hava akrobasisi provasından notlar.",
+     "body": "<p class=\"lede\">Bu bir <strong>örnek yazıdır</strong>. Doğrulanmış söyleşiler ve arşiv materyalleri editörler tarafından eklenecektir.</p><p>“İp ve nefes” başlığı yalnızca editoryal sesi, çok dilli yapıyı ve görsel odaklı makale sayfasını göstermek için vardır.</p><figure data-media=\"05000000-0000-4000-8000-000000000009\"><figcaption>Örnek görsel · sahne etüdü</figcaption></figure><blockquote><p>Sahne boş bir alan değil, bir beklentidir.</p><cite>Stüdyo notları · örnek alıntı</cite></blockquote><p>Sonraki paragraflar gerçek editoryal içerikle değiştirilecektir.</p>",
+     "seo_title": "İp ve nefes · UB CIRCUS",
+     "seo_description": "Bir hava akrobasisi provasından notlar."
+    }
+   }
+  },
+  {
+   "id": "11000000-0000-4000-8000-000000000005",
+   "slug": "the-archive-room",
+   "status": "published",
+   "category_id": "03000000-0000-4000-8000-000000000003",
+   "lead_image_id": "05000000-0000-4000-8000-000000000007",
+   "published_at": "2026-08-05T09:00:00+08:00",
+   "sample": true,
+   "reading_minutes": 7,
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Архивын өрөө",
+     "subtitle": "Тайзны тэмдэглэл · Загвар нийтлэл",
+     "excerpt": "Архивыг хэрхэн дижитал болгох тухай.",
+     "body": "<p class=\"lede\">Энэ бол <strong>загвар нийтлэл</strong>. Баталгаажсан эх сурвалж, ярилцлага, дүрс материалыг нийтлэлийн редактор энд оруулна.</p><p>«Архивын өрөө» гэдэг гарчиг нь редакцын хэв маяг, олон хэлний бүтэц, зураг бүхий нийтлэлийн хуудсыг харуулах зорилготой.</p><figure data-media=\"05000000-0000-4000-8000-000000000007\"><figcaption>Загвар зураг · тайзны судалбар</figcaption></figure><blockquote><p>Тайз бол хоосон орон зай биш — хүлээлт юм.</p><cite>Тайзны тэмдэглэл · загвар ишлэл</cite></blockquote><p>Дараагийн догол мөрүүд редакцын бодит агуулгаар солигдоно. Ишлэл, зураг, видео зэрэг элементүүдийг дэмжинэ.</p>",
+     "seo_title": "Архивын өрөө · UB CIRCUS",
+     "seo_description": "Архивыг хэрхэн дижитал болгох тухай."
+    },
+    "en": {
+     "title": "The archive room",
+     "subtitle": "Studio notes · Sample story",
+     "excerpt": "On turning an archive into a living digital stage.",
+     "body": "<p class=\"lede\">This is a <strong>sample story</strong>. Verified interviews, original reporting and approved archive material will be added here by the editorial team.</p><p>The title “The archive room” exists only to demonstrate the editorial voice, the multilingual structure and an image-led article page.</p><figure data-media=\"05000000-0000-4000-8000-000000000007\"><figcaption>Sample artwork · stage study</figcaption></figure><blockquote><p>A stage is not an empty space. It is an expectation.</p><cite>Studio notes · sample quotation</cite></blockquote><p>The following paragraphs will be replaced by real editorial content. Quotes, images and video embeds are supported.</p>",
+     "seo_title": "The archive room · UB CIRCUS",
+     "seo_description": "On turning an archive into a living digital stage."
+    },
+    "tr": {
+     "title": "Arşiv odası",
+     "subtitle": "Stüdyo notları · Örnek yazı",
+     "excerpt": "Bir arşivi yaşayan dijital bir sahneye dönüştürmek üzerine.",
+     "body": "<p class=\"lede\">Bu bir <strong>örnek yazıdır</strong>. Doğrulanmış söyleşiler ve arşiv materyalleri editörler tarafından eklenecektir.</p><p>“Arşiv odası” başlığı yalnızca editoryal sesi, çok dilli yapıyı ve görsel odaklı makale sayfasını göstermek için vardır.</p><figure data-media=\"05000000-0000-4000-8000-000000000007\"><figcaption>Örnek görsel · sahne etüdü</figcaption></figure><blockquote><p>Sahne boş bir alan değil, bir beklentidir.</p><cite>Stüdyo notları · örnek alıntı</cite></blockquote><p>Sonraki paragraflar gerçek editoryal içerikle değiştirilecektir.</p>",
+     "seo_title": "Arşiv odası · UB CIRCUS",
+     "seo_description": "Bir arşivi yaşayan dijital bir sahneye dönüştürmek üzerine."
+    }
+   }
+  }
+ ],
+ "pages": [
+  {
+   "id": "12000000-0000-4000-8000-000000000001",
+   "slug": "about",
+   "status": "published",
+   "settings": {},
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Бидний тухай",
+     "subtitle": "Улаанбаатарын цирк — хөдөлгөөний байшин",
+     "body": "<p class=\"lede\">Энэ хуудасны түүхэн мэдээлэл хараахан баталгаажаагүй. Байгуулагдсан он, барилга, уран бүтээлчдийн тухай баталгаатай мэдээллийг редакц нийтэлнэ.</p><p>Одоогоор энэ орон зай нь байгууллагын хуудасны бүтэц — том зураг, он цагийн тэмдэглэгээ, богино текст, архивын хэлтэрхий — хэрхэн ажиллахыг харуулж байна.</p>",
+     "seo_title": "Бидний тухай · UB CIRCUS",
+     "seo_description": "Улаанбаатарын цирк — хөдөлгөөний байшин"
+    },
+    "en": {
+     "title": "About",
+     "subtitle": "Ulaanbaatar Circus — a house of movement",
+     "body": "<p class=\"lede\">The history on this page has not yet been verified. Founding dates, the building and the people behind the circus will be published by the editorial team once confirmed.</p><p>For now this space demonstrates how the institutional page works: a large image, an oversized year marker, a short text and archive fragments.</p>",
+     "seo_title": "About · UB CIRCUS",
+     "seo_description": "Ulaanbaatar Circus — a house of movement"
+    },
+    "tr": {
+     "title": "Hakkımızda",
+     "subtitle": "Ulanbatur Sirki — bir hareket evi",
+     "body": "<p class=\"lede\">Bu sayfadaki tarihçe henüz doğrulanmadı. Kuruluş tarihleri, bina ve sirkin arkasındaki insanlar doğrulandıktan sonra yayınlanacaktır.</p><p>Şimdilik bu alan kurumsal sayfanın nasıl çalıştığını gösterir.</p>",
+     "seo_title": "Hakkımızda · UB CIRCUS",
+     "seo_description": "Ulanbatur Sirki — bir hareket evi"
+    }
+   }
+  },
+  {
+   "id": "12000000-0000-4000-8000-000000000002",
+   "slug": "visit",
+   "status": "published",
+   "settings": {},
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Зочлох",
+     "subtitle": "Айлчлалаа төлөвлөх",
+     "body": "<p class=\"lede\">Хаяг, чиглэл, хүртээмж, кассын цаг зэрэг мэдээллийг баталгаажуулж байна.</p>",
+     "seo_title": "Зочлох · UB CIRCUS",
+     "seo_description": "Айлчлалаа төлөвлөх"
+    },
+    "en": {
+     "title": "Visit",
+     "subtitle": "Plan your visit",
+     "body": "<p class=\"lede\">Address, directions, accessibility and box-office hours are being confirmed.</p>",
+     "seo_title": "Visit · UB CIRCUS",
+     "seo_description": "Plan your visit"
+    },
+    "tr": {
+     "title": "Ziyaret",
+     "subtitle": "Ziyaretinizi planlayın",
+     "body": "<p class=\"lede\">Adres, ulaşım, erişilebilirlik ve gişe saatleri doğrulanıyor.</p>",
+     "seo_title": "Ziyaret · UB CIRCUS",
+     "seo_description": "Ziyaretinizi planlayın"
+    }
+   }
+  },
+  {
+   "id": "12000000-0000-4000-8000-000000000003",
+   "slug": "contact",
+   "status": "published",
+   "settings": {},
+   "created_at": "2026-09-05T09:00:00+08:00",
+   "updated_at": "2026-09-05T09:00:00+08:00",
+   "translations": {
+    "mn": {
+     "title": "Холбоо барих",
+     "subtitle": "Бидэнтэй холбогдох",
+     "body": "<p class=\"lede\">Асуулт, хамтын ажиллагаа, хэвлэлийн хүсэлтээ илгээнэ үү.</p>",
+     "seo_title": "Холбоо барих · UB CIRCUS",
+     "seo_description": "Бидэнтэй холбогдох"
+    },
+    "en": {
+     "title": "Contact",
+     "subtitle": "Get in touch",
+     "body": "<p class=\"lede\">Send us a question, a partnership idea or a press request.</p>",
+     "seo_title": "Contact · UB CIRCUS",
+     "seo_description": "Get in touch"
+    },
+    "tr": {
+     "title": "İletişim",
+     "subtitle": "Bize ulaşın",
+     "body": "<p class=\"lede\">Sorularınızı, iş birliği fikirlerinizi veya basın taleplerinizi gönderin.</p>",
+     "seo_title": "İletişim · UB CIRCUS",
+     "seo_description": "Bize ulaşın"
+    }
+   }
+  }
+ ],
+ "homepage_sections": [
+  {
+   "id": "13000000-0000-4000-8000-000000000001",
+   "enabled": true,
+   "display_order": 0,
+   "kind": "hero_orbit",
+   "settings": {
+    "caption": {
+     "mn": "ТАЙЗНЫ СУДАЛБАР / 2026",
+     "en": "STAGE STUDIES / 2026",
+     "tr": "SAHNE ETÜTLERİ / 2026"
+    }
+   },
+   "items": [
+    {
+     "id": "14000000-0000-4000-8000-000000000001",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000001",
+     "display_order": 0
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000002",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000002",
+     "display_order": 1
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000003",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000003",
+     "display_order": 2
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000004",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000004",
+     "display_order": 3
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000005",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000005",
+     "display_order": 4
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000006",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000006",
+     "display_order": 5
+    }
+   ]
+  },
+  {
+   "id": "13000000-0000-4000-8000-000000000002",
+   "enabled": true,
+   "display_order": 1,
+   "kind": "next_on_stage",
+   "settings": {
+    "limit": 4,
+    "mode": "auto"
+   },
+   "items": []
+  },
+  {
+   "id": "13000000-0000-4000-8000-000000000003",
+   "enabled": true,
+   "display_order": 2,
+   "kind": "featured_performances",
+   "settings": {},
+   "items": [
+    {
+     "id": "14000000-0000-4000-8000-000000000007",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000001",
+     "display_order": 0
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000008",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000002",
+     "display_order": 1
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000009",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000003",
+     "display_order": 2
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000010",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000004",
+     "display_order": 3
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000011",
+     "resource": "event",
+     "resource_id": "01000000-0000-4000-8000-000000000005",
+     "display_order": 4
+    }
+   ]
+  },
+  {
+   "id": "13000000-0000-4000-8000-000000000004",
+   "enabled": true,
+   "display_order": 3,
+   "kind": "whats_on",
+   "settings": {
+    "limit": 8
+   },
+   "items": []
+  },
+  {
+   "id": "13000000-0000-4000-8000-000000000005",
+   "enabled": true,
+   "display_order": 4,
+   "kind": "featured_video",
+   "settings": {},
+   "items": [
+    {
+     "id": "14000000-0000-4000-8000-000000000012",
+     "resource": "video",
+     "resource_id": "08000000-0000-4000-8000-000000000001",
+     "display_order": 0
+    }
+   ]
+  },
+  {
+   "id": "13000000-0000-4000-8000-000000000006",
+   "enabled": true,
+   "display_order": 5,
+   "kind": "in_motion",
+   "settings": {},
+   "items": [
+    {
+     "id": "14000000-0000-4000-8000-000000000013",
+     "resource": "media",
+     "resource_id": "05000000-0000-4000-8000-000000000008",
+     "display_order": 0
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000014",
+     "resource": "media",
+     "resource_id": "05000000-0000-4000-8000-000000000003",
+     "display_order": 1
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000015",
+     "resource": "media",
+     "resource_id": "05000000-0000-4000-8000-000000000009",
+     "display_order": 2
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000016",
+     "resource": "media",
+     "resource_id": "05000000-0000-4000-8000-000000000005",
+     "display_order": 3
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000017",
+     "resource": "media",
+     "resource_id": "05000000-0000-4000-8000-000000000010",
+     "display_order": 4
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000018",
+     "resource": "media",
+     "resource_id": "05000000-0000-4000-8000-000000000011",
+     "display_order": 5
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000019",
+     "resource": "media",
+     "resource_id": "05000000-0000-4000-8000-000000000006",
+     "display_order": 6
+    }
+   ]
+  },
+  {
+   "id": "13000000-0000-4000-8000-000000000007",
+   "enabled": true,
+   "display_order": 6,
+   "kind": "stories",
+   "settings": {},
+   "items": [
+    {
+     "id": "14000000-0000-4000-8000-000000000020",
+     "resource": "article",
+     "resource_id": "11000000-0000-4000-8000-000000000001",
+     "display_order": 0
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000021",
+     "resource": "article",
+     "resource_id": "11000000-0000-4000-8000-000000000002",
+     "display_order": 1
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000022",
+     "resource": "article",
+     "resource_id": "11000000-0000-4000-8000-000000000003",
+     "display_order": 2
+    },
+    {
+     "id": "14000000-0000-4000-8000-000000000023",
+     "resource": "article",
+     "resource_id": "11000000-0000-4000-8000-000000000004",
+     "display_order": 3
+    }
+   ]
+  },
+  {
+   "id": "13000000-0000-4000-8000-000000000008",
+   "enabled": true,
+   "display_order": 7,
+   "kind": "about_feature",
+   "settings": {
+    "year_label": "2026",
+    "year_caption": {
+     "mn": "Улирал",
+     "en": "Season",
+     "tr": "Sezon"
+    },
+    "title": {
+     "mn": "Хөдөлгөөний байшин",
+     "en": "A house of movement",
+     "tr": "Bir hareket evi"
+    },
+    "body": {
+     "mn": "Байгууллагын баталгаажсан түүхийг редакц нийтлэх хүртэл энэ хэсэг загвар текстээр дүүрсэн байна.",
+     "en": "Until the editorial team publishes the verified history of the institution, this feature carries sample text.",
+     "tr": "Kurumun doğrulanmış tarihçesi yayınlanana kadar bu alan örnek metin taşır."
+    },
+    "image_id": "05000000-0000-4000-8000-000000000011",
+    "href": "/about"
+   },
+   "items": []
+  },
+  {
+   "id": "13000000-0000-4000-8000-000000000009",
+   "enabled": true,
+   "display_order": 8,
+   "kind": "plan_your_visit",
+   "settings": {
+    "venue_id": "04000000-0000-4000-8000-000000000001"
+   },
+   "items": []
+  }
+ ],
+ "navigation_items": [
+  {
+   "id": "15000000-0000-4000-8000-000000000001",
+   "group": "header",
+   "href": "/events",
+   "label": {
+    "mn": "Тоглолтууд",
+    "en": "Performances",
+    "tr": "Gösteriler"
+   },
+   "display_order": 0,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000002",
+   "group": "header",
+   "href": "/calendar",
+   "label": {
+    "mn": "Хуанли",
+    "en": "Calendar",
+    "tr": "Takvim"
+   },
+   "display_order": 1,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000003",
+   "group": "header",
+   "href": "/stories",
+   "label": {
+    "mn": "Нийтлэл",
+    "en": "Stories",
+    "tr": "Hikâyeler"
+   },
+   "display_order": 2,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000004",
+   "group": "header",
+   "href": "/media",
+   "label": {
+    "mn": "Архив",
+    "en": "Media",
+    "tr": "Arşiv"
+   },
+   "display_order": 3,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000005",
+   "group": "header",
+   "href": "/about",
+   "label": {
+    "mn": "Бидний тухай",
+    "en": "About",
+    "tr": "Hakkımızda"
+   },
+   "display_order": 4,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000006",
+   "group": "header",
+   "href": "/visit",
+   "label": {
+    "mn": "Зочлох",
+    "en": "Visit",
+    "tr": "Ziyaret"
+   },
+   "display_order": 5,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000007",
+   "group": "footer",
+   "href": "/events",
+   "label": {
+    "mn": "Тоглолтууд",
+    "en": "Performances",
+    "tr": "Gösteriler"
+   },
+   "display_order": 6,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000008",
+   "group": "footer",
+   "href": "/stories",
+   "label": {
+    "mn": "Нийтлэл",
+    "en": "Stories",
+    "tr": "Hikâyeler"
+   },
+   "display_order": 7,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000009",
+   "group": "footer",
+   "href": "/media",
+   "label": {
+    "mn": "Архив",
+    "en": "Media",
+    "tr": "Arşiv"
+   },
+   "display_order": 8,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000010",
+   "group": "footer",
+   "href": "/about",
+   "label": {
+    "mn": "Бидний тухай",
+    "en": "About",
+    "tr": "Hakkımızda"
+   },
+   "display_order": 9,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000011",
+   "group": "footer",
+   "href": "/visit",
+   "label": {
+    "mn": "Зочлох",
+    "en": "Visit",
+    "tr": "Ziyaret"
+   },
+   "display_order": 10,
+   "parent_id": null,
+   "external": false
+  },
+  {
+   "id": "15000000-0000-4000-8000-000000000012",
+   "group": "footer",
+   "href": "/contact",
+   "label": {
+    "mn": "Холбоо барих",
+    "en": "Contact",
+    "tr": "İletişim"
+   },
+   "display_order": 11,
+   "parent_id": null,
+   "external": false
+  }
+ ],
+ "site_settings": [
+  {
+   "key": "site",
+   "value": {
+    "name": "UB CIRCUS",
+    "wordmark_sub": "УЛААНБААТАР",
+    "tagline": {
+     "mn": "Хөдөлгөөн. Гайхамшиг. Нэг тайз.",
+     "en": "Movement. Wonder. One ring.",
+     "tr": "Hareket. Hayranlık. Tek sahne."
+    },
+    "description": {
+     "mn": "Улаанбаатар цирк. Тоглолт, хөдөлгөөн, тайзны ертөнц.",
+     "en": "Ulaanbaatar Circus. Performances, movement and the world of the ring.",
+     "tr": "Ulanbatur Sirki. Gösteriler, hareket ve sahne dünyası."
+    },
+    "contact_email": "",
+    "phone": "",
+    "social": {}
+   }
+  },
+  {
+   "key": "locales",
+   "value": {
+    "enabled": [
+     "mn",
+     "en",
+     "tr"
+    ],
+    "default": "mn"
+   }
+  },
+  {
+   "key": "seo",
+   "value": {
+    "title_template": "%s · UB CIRCUS",
+    "og_image_id": "05000000-0000-4000-8000-000000000007",
+    "index": false
+   }
+  },
+  {
+   "key": "contact",
+   "value": {
+    "categories": [
+     "general",
+     "tickets",
+     "partnership",
+     "press",
+     "venue"
+    ]
+   }
+  }
+ ]
+}

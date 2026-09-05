@@ -1,0 +1,25 @@
+{
+  "name": "ubcircus",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/web"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace apps/web",
+    "dev:api": "cd apps/api && .venv/Scripts/python.exe -m uvicorn app.main:app --port 8000 --reload",
+    "build": "npm run build --workspace apps/web",
+    "typecheck": "npm run typecheck --workspace apps/web",
+    "test": "npm run test --workspace apps/web",
+    "test:api": "cd apps/api && .venv/Scripts/python.exe -m pytest -q",
+    "content:build": "node scripts/build-content.mjs",
+    "artwork:build": "node scripts/create-artwork.mjs",
+    "api:types": "cd apps/api && .venv/Scripts/python.exe -c \"import json,sys; sys.path.insert(0,'.'); from app.main import app; json.dump(app.openapi(), open('openapi.json','w'), indent=1)\" && cd ../.. && npx openapi-typescript@7 apps/api/openapi.json -o apps/web/lib/api/schema.d.ts",
+    "smoke": "node scripts/screenshot.mjs http://127.0.0.1:3000 screenshots /mn /mn/events /mn/events/the-ring /mn/stories /mn/media /mn/about /mn/visit /mn/contact --widths=1440,768,390",
+    "smoke:admin": "node scripts/admin-smoke.mjs http://127.0.0.1:3000 screenshots-admin"
+  },
+  "devDependencies": {
+    "agent-browser": "0.36.0",
+    "vercel": "59.11.7"
+  }
+}

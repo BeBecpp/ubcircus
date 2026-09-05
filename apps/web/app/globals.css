@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-stage: #070707;
+  --color-warm: #0d0c0b;
+  --color-ivory: #f2ece2;
+  --color-muted: #b9b2a8;
+  --color-brass: #c9a35c;
+  --color-gold: #98733b;
+  --color-red: #d92e2e;
+  --color-velvet: #23090d;
+  --font-sans: 'Noto Sans Variable', system-ui, sans-serif;
+  --font-display: 'Noto Serif Display Variable', Georgia, serif;
+}
