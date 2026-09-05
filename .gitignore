@@ -16,3 +16,5 @@ screenshots/
 screenshots-admin/
 apps/api/openapi.json
 *.tsbuildinfo
+
+.vercel

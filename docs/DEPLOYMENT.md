@@ -65,7 +65,9 @@ vercel deploy --cwd apps/web                                    # preview → sm
 vercel deploy --prod --cwd apps/web
 ```
 
-Set each project's **Root Directory** in the dashboard if the CLI did not detect it (`apps/web`, `apps/api`).
+Set each project's **Root Directory** with `vercel project update <name> --root-directory apps/web` (or `apps/api`). Use `vercel link --repo` at the repository root so CLI deploys upload the whole monorepo.
+
+Vercel blocks deployments whose commit author email is not linked to the GitHub account (Hobby teams). Commit with an address attached to the account, e.g. the GitHub noreply address `<id>+<login>@users.noreply.github.com`.
 
 ## 4. First administrator
 
