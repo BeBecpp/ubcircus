@@ -16,7 +16,8 @@ mkdirSync(out, { recursive: true });
 const browser = await chromium.launch({ executablePath: process.env.CHROME_PATH || undefined, args: ['--use-gl=swiftshader', '--enable-unsafe-swiftshader'] });
 const errors = [];
 for (const width of widths) {
-  const context = await browser.newContext({ viewport: { width, height: width < 768 ? 844 : 900 }, deviceScaleFactor: 1, isMobile: width < 768, hasTouch: width < 768 });
+  const bypass = flags['bypass-file'] ? (await import('node:fs')).readFileSync(flags['bypass-file'], 'utf8').trim() : process.env.VERCEL_BYPASS;
+  const context = await browser.newContext({ viewport: { width, height: width < 768 ? 844 : 900 }, deviceScaleFactor: 1, isMobile: width < 768, hasTouch: width < 768, extraHTTPHeaders: bypass ? { 'x-vercel-protection-bypass': bypass } : {} });
   const page = await context.newPage();
   page.on('console', (m) => { if (m.type() === 'error') errors.push(`[${width}] ${m.text().slice(0, 300)}`); });
   page.on('pageerror', (e) => errors.push(`[${width}] pageerror ${e.message.slice(0, 300)}`));
