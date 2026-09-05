@@ -204,7 +204,7 @@ select.inline-input option { background: #0b0a0a; }
 
 /* login */
 .login { min-height: 100dvh; display: grid; grid-template-columns: 1.1fr 1fr; background: var(--black); }
-.login-art { position: relative; border-right: 1px solid var(--line); background: radial-gradient(ellipse at 50% 80%, rgba(201, 163, 92, 0.12), transparent 60%), #070707; display: flex; align-items: flex-end; padding: 48px; }
+.login-art { position: relative; overflow: hidden; border-right: 1px solid var(--line); background: radial-gradient(ellipse at 50% 80%, rgba(201, 163, 92, 0.12), transparent 60%), #070707; display: flex; align-items: flex-end; padding: 48px; }
 .login-art .ring { position: absolute; left: 50%; top: 58%; width: 120%; height: 34%; transform: translate(-50%, -50%); border: 1px solid rgba(201, 163, 92, 0.35); border-radius: 50%; }
 .login-art .ring::after { content: ''; position: absolute; inset: 12%; border: 1px solid rgba(201, 163, 92, 0.15); border-radius: 50%; }
 .login-art h1 { position: relative; font-family: var(--display); font-weight: 400; font-size: clamp(3rem, 7vw, 6rem); letter-spacing: -0.04em; line-height: 0.9; }
